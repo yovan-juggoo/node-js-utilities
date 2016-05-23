@@ -60,14 +60,4 @@
     console.log('answer1:', answer1);
     console.log('answer2:', answer2);
 
-    var dontTouch = [5, 9, 7, 6, 2];
-    var values =
-        var poppedValue = values.pop();
-    console.log('poppedValue:', poppedValue);
-    console.log('values.length:', values.length);
-
-
-    var shiftedValue = [5, 9, 7, 6, 2].shift();
-    console.log('shiftedValue:', shiftedValue);
-
 }());
